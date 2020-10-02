@@ -1,0 +1,27 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-image: url(https://64.media.tumblr.com/84f77b0f0109687a58e5f852d9bf3583/6d7ccfb0efafbc2e-fd/s2048x3072/3d735c2e5f7474e7cfb2e8ae4b00354a7d07cdde.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center top;
+    padding: 30px;
+    text-align: center;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+
+  #weather-container {
+  
+    margin-bottom: 100px;
+ 
+    text-align: center;
+  }
+  #text {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 300;
+  }
